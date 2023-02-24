@@ -1,6 +1,6 @@
 # projects
 
-## My projects repository
+## My projects
 
 [01] [**azure-policy-terraform**](https://github.com/RustyTake-Off/azure-policy-terraform) - Terraform module for creating azure policy initiative and assignments.
 
