@@ -9,3 +9,5 @@
 [03] [**aks-terraform-pipeline**](https://github.com/RustyTake-Off/aks-terraform) - Create AKS in terraform and deploy it using Azure DevOps with a custom pipelines.
 
 [04] [**docker-azure-pipeline**](https://github.com/RustyTake-Off/docker-azure-pipeline) - Create a pipeline that builds a Docker image and pushes it to Azure Container Registry or Docker Hub.
+
+[05] [**aks-terraform-k8s-pipeline**](https://github.com/RustyTake-Off/aks-terraform-k8s-pipeline) - Create an AKS cluster with Terraform and deploy K8s to it using pipelines constructed out of template files.
